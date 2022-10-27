@@ -1,24 +1,58 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# BlogOnRails
 
-Things you may want to cover:
+> This is a blog application built with Ruby On Rails. On completion the app will enable users to post, to comment and like on posts.
 
-* Ruby version
+## Built With
 
-* System dependencies
+- Ruby
+- Ruby on Rails
+- Rubocop
 
-* Configuration
+## Live Demo
 
-* Database creation
+[live demo not available]()
 
-* Database initialization
 
-* How to run the test suite
+## Getting Started
 
-* Services (job queues, cache servers, search engines, etc.)
+## To get a local copy run the following steps:
 
-* Deployment instructions
+### Prerequisites
+- Ruby
+- Ruby on rails
+- Postgresql
 
-* ...
+### Install
+- stylelint
+- rubocop
+
+### Run tests
+run `rspec test`
+
+## Author
+👤 Eyasu Teshome
+
+- GitHub: [@EyasuTeshome](https://github.com/EyasuTeshome)
+- Twitter: [@EyasuTeshome](https://twitter.com/EyasuTeshome)
+- LinkedIn: [Eyasu Teshome](https://linkedin.com/in/EyasuTeshome)
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
